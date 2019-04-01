@@ -1,4 +1,4 @@
-# Top Jets Comparison Analysis
+# Top Tagging Comparison Analysis
 
 ### **Kyle Cranmer, Gregor Kasieczka, Sebastian Macaluso and David Shih**
 
@@ -55,6 +55,6 @@ author       = "K. Cranmer, G. Kasieczka, S. Macaluso and D. Shih",
 title        = "{Subset of the code used for the Top Tagging Comparison Analysis}",
 note         = "{DOI: }",
 year         = {2019},
-url          = {https://github.com/SebastianMacaluso/TopJetsComparison}
+url          = {https://github.com/SebastianMacaluso/TopTagComparison}
 }
 ```
