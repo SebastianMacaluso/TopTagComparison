@@ -50,7 +50,7 @@ with the link to download it [here](https://desycloud.desy.de/index.php/s/llbX3z
 Please cite this code as
 
 ```
-@misc{TopJetsComparison,
+@misc{TopTagComparison,
 author       = "K. Cranmer, G. Kasieczka, S. Macaluso and D. Shih",
 title        = "{Subset of the code used for the Top Tagging Comparison Analysis}",
 note         = "{DOI: }",
