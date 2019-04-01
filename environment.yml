@@ -1,0 +1,21 @@
+name: TopJetsComparison
+channels:
+  - conda-forge
+dependencies:
+- python=3.6.*
+- numpy
+- h5py
+- scipy
+- scikit-learn
+- pickle
+- pandas
+- matplotlib  
+  
+  
+  
+  
+  
+  
+
+
+
