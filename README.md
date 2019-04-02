@@ -1,6 +1,6 @@
 # Top Tagging Comparison Analysis
 
-### **Kyle Cranmer, Gregor Kasieczka, Sebastian Macaluso and David Shih**
+### **Kyle Cranmer, Gregor Kasieczka, Sebastian Macaluso**
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -51,7 +51,7 @@ Please cite this code as
 
 ```
 @misc{TopTagComparison,
-author       = "K. Cranmer, G. Kasieczka, S. Macaluso and D. Shih",
+author       = "K. Cranmer, G. Kasieczka, S. Macaluso",
 title        = "{Subset of the code used for the Top Tagging Comparison Analysis}",
 note         = "{DOI: }",
 year         = {2019},
